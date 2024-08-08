@@ -122,3 +122,12 @@ The SQL queries used to analyze the data are included in the SQL_Queries.sql fil
 - Open the Pizza_sales_dashboard.xlsx file to interact with the dashboard and explore the insights.
 - Review the SQL queries in SQL_Queries.sql to understand how the data was processed and analyzed.
 
+## Visual dashboard Overview
+
+![Screenshot 2024-08-09 010149](https://github.com/user-attachments/assets/9d45d87d-d13b-4968-9442-8db0a9bbd0ef)
+
+## Conclusion 
+This project successfully demonstrates the power of data analysis and visualization in transforming raw sales data into valuable insights. The findings provide a clear understanding of customer preferences and sales trends, enabling more informed business decisions.
+
+Thank you for exploring the pizza sales analysis project. We look forward to continuing to leverage data-driven approaches to drive business forward.
+
