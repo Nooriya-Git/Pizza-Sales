@@ -129,5 +129,5 @@ The SQL queries used to analyze the data are included in the SQL_Queries.sql fil
 ## Conclusion 
 This project successfully demonstrates the power of data analysis and visualization in transforming raw sales data into valuable insights. The findings provide a clear understanding of customer preferences and sales trends, enabling more informed business decisions.
 
-Thank you for exploring the pizza sales analysis project. We look forward to continuing to leverage data-driven approaches to drive business forward.
+Thank you for exploring the pizza sales analysis project. We look forward to continuing to leverage data-driven approaches to drive business forward. Feel free to reach out with any questions or suggestions!
 
