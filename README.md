@@ -21,7 +21,7 @@
   
  ## Files in the Repository
  - Pizza_sales_dashboard.xlsx: The Excel file containing the raw data, the dashboard, and pivot tables.
- - SQL_Queries.sql: A collection of SQL queries used for analyzing the data.
+ - SQL_Queries.pdf: A collection of SQL queries used for analyzing the data.
  - README.md: This document.
    
 ## Data Column Description
@@ -110,7 +110,7 @@ While popular choices like Classic Deluxe and Barbecue Chicken pizzas continue t
 
 With an average order value of $38.31 and total revenue figures there is clear evidence of healthy customer spending habits, within the pizza business segment.
 ## SQL Queries
-The SQL queries used to analyze the data are included in the SQL_Queries.sql file. These queries address various analytical needs such as:
+The SQL queries used to analyze the data are included in the SQL_Queries.pdf file. These queries address various analytical needs such as:
 
 - Filtering sales by category, size, and time.
 - Calculating total revenue and order values.
@@ -120,7 +120,7 @@ The SQL queries used to analyze the data are included in the SQL_Queries.sql fil
 ## How to use this Repository
 - Clone the repository to your local machine.
 - Open the Pizza_sales_dashboard.xlsx file to interact with the dashboard and explore the insights.
-- Review the SQL queries in SQL_Queries.sql to understand how the data was processed and analyzed.
+- Review the SQL queries in SQL_Queries.pdf to understand how the data was processed and analyzed.
 
 ## Visual Dashboard Overview
 
