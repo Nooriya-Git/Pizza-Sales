@@ -20,9 +20,9 @@
 - Compute important figures like earnings average order amount and number of pizzas, per order to gauge how the business is doing overall.
   
  ## Files in the Repository
- - Pizza_sales_dashboard.xlsx: The Excel file containing the raw data, the dashboard, and pivot tables.
- - SQL_Queries.pdf: A collection of SQL queries used for analyzing the data.
- - README.md: This document.
+ - Pizza_sales_dashboard.xlsx : The Excel file containing the raw data, the dashboard, and pivot tables.
+ - SQL_Queries.pdf : A collection of SQL queries used for analyzing the data.
+ - README.md : This document.
    
 ## Data Column Description
 The dataset used for this analysis consists of the following columns:
@@ -79,14 +79,14 @@ The dashboard provides a holistic view of the pizza sales data, offering insight
  - Veggie : 11,649 pizzas sold.
  - Chicken : 11,050 pizzas sold.
 9. **Best & Worst Sellers**
-- Top 5 Best Sellers:
-  - The Classic Deluxe Pizza: 2,453 units sold.
-  - The Barbecue Chicken Pizza: 2,432 units sold.
-  - The Hawaiian Pizza: 2,422 units sold.
-  - The Pepperoni Pizza: 2,418 units sold.
-  - The Thai Chicken Pizza: 2,371 units sold.
-- Bottom 5 Worst Sellers:
-  - The Soppressata Pizza: 961 units sold.
+- Top 5 Best Sellers :
+  - The Classic Deluxe Pizza : 2,453 units sold.
+  - The Barbecue Chicken Pizza : 2,432 units sold.
+  - The Hawaiian Pizza : 2,422 units sold.
+  - The Pepperoni Pizza : 2,418 units sold.
+  - The Thai Chicken Pizza : 2,371 units sold.
+- Bottom 5 Worst Sellers :
+  - The Soppressata Pizza : 961 units sold.
   - The Spinach Supreme Pizza : 950 units sold.
   - The Calabrese Pizza : 937 units sold.
   - The Mediterranean Pizza : 894 units sold.
